@@ -29,7 +29,7 @@ Prerequisites
 
 How to run
 
-    Open cmd and navigate to the directory where you want to clone the repository. Then run: git clone https://github.com/shadowking1988/Python-Project-Submission_soumalya.git
+    Open cmd and navigate to the directory where you want to clone the repository. Then run: git clone: https://github.com/alknanda/Python-project-submission.git
     Then use the command cd imdb-movie-scraper
     To avoid conflicts with other Python projects, create a virtual environment. Then run the following command: python -m venv venv
     This will create a virtual environment named venv in the project directory.
